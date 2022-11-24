@@ -9,7 +9,11 @@
 ## よく使うgit command
 * git checkout branch名
 * git fetch
+* cd "C:\Users\kiyoh\Documents\Git\sample_gen"
 ### branch: main
+
+### branch: code
+* 
 
 ### branch: readme
 * git add README.md
