@@ -13,7 +13,9 @@
 ### branch: main
 
 ### branch: code
-* 
+* git add sample_gen.ipynb
+* git commit -m "[add] コメント"
+* git push origin code
 
 ### branch: readme
 * git add README.md
