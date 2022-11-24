@@ -8,3 +8,4 @@
 
 ## gitの使い方参考サイト
 [Git で git pull するとマージすべきブランチがわからないと言われる場合の対処方法](https://gotohayato.com/content/455/)
+[【超入門】初心者のためのGitとGitHubの使い方](https://tech-blog.rakus.co.jp/entry/20200529/git)
